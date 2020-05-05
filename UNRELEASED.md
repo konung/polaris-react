@@ -10,6 +10,8 @@
 
 ### Bug fixes
 
+- Fixed Autocomplete / ComboBox focus ([#1089](https://github.com/Shopify/polaris-react/issues/1089))
+
 ### Documentation
 
 ### Development workflow
